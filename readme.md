@@ -32,4 +32,8 @@ Bangkit's Capstone Project : Farmer Nusantara
 </ol>
 <h4><b>Pricing Preview of Architecture Design</b></h4>
 <p>You can see the price of the Cloud Architecture on this link <a href="https://cloud.google.com/products/calculator/#id=5fbddaf0-bc4c-40fa-9a39-2a9d437fcba3">Pricing</a></p>
-    
+
+![fasa cloud archicture](https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png)
+
+### App Engine
+![fasa app engine](https://storage.googleapis.com/farmer-nusantara-development.appspot.com/App%20Engine/Create.png)
