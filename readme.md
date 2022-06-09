@@ -12,9 +12,9 @@ Bangkit's Capstone Project : Farmer Nusantara
 ## Architecture of Farmer Nusantara Cloud Computing
 You can see the architecture on this link <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png">Architecture Design </a>
 ### Google Cloud Platform Services
-- App Engine
-- Cloud Storage
-- MongoDB Atlas on GCP Marketplace
+- <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/App%20Engine">App Engine</a>
+- <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/Cloud%20Storage">Cloud Storage</a>
+- <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/MongoDB">MongoDB Atlas on GCP Marketplace</a>
 
 ### The Role of Cloud Computing on this Capstone Project. 
 - App Engine used for delivery API to Mobile Apps.
