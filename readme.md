@@ -14,11 +14,13 @@ You can see the architecture on this link <a href="https://github.com/farmer-nus
 ### Google Cloud Platform Services
 - <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/App%20Engine">App Engine</a>
 - <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/Cloud%20Storage">Cloud Storage</a>
+- <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/IAM">IAM</a>
 - <a href="https://github.com/farmer-nusantara/farmer-nusantara-cloud/tree/main/MongoDB">MongoDB Atlas on GCP Marketplace</a>
 
 ### The Role of Cloud Computing on this Capstone Project. 
 - App Engine used for delivery API to Mobile Apps.
 - Cloud Storage used for stored image from API.
+- IAM used for create serviceKey to give the code access to Cloud Storage.
 - MongoDB Atlas on GCP Marketplace used for stored data from API.
 
 ### Progress Report Cloud Computing Path 
