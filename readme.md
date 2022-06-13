@@ -24,12 +24,13 @@ You can see the architecture on this link <a href="https://github.com/farmer-nus
 - MongoDB Atlas on GCP Marketplace used for stored data from API.
 
 ### Progress Report Cloud Computing Path 
-- Successfully set permissions for each team member.
 - Successfully set budget alerting when it reaches 50 dollars.
 - Successfully connect to android platform using the API from AppEngine.
 - Successfully connect Cloud Storage to API.
+- Successfully connect serviceKey to API.
+- Successfully connect MongoDB Atlas to API.
 
 ### Pricing Preview of Architecture Design
-You can see the price of the Cloud Architecture on this link <a href="https://cloud.google.com/products/calculator/#id=5fbddaf0-bc4c-40fa-9a39-2a9d437fcba3">Pricing</a>
+You can see the price of the Cloud Architecture on this link <a href="https://cloud.google.com/products/calculator/#id=6cf14193-3ee8-46a3-b260-28083159768d">Pricing</a> 
 
 <img src="https://github.com/farmer-nusantara/farmer-nusantara-cloud/blob/d309b4df16a7a97b074e226123d54aa82b07c4e5/Cloud%20Architecture.png" width="60%">
