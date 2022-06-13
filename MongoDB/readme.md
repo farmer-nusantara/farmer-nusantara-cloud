@@ -12,4 +12,4 @@ Quickstart guide how to connect your Apps to MongoDB
 - Choose Connect your application.
 - Choose Connection method, copy mongoDB URL.
 - Replace `<password>` with database password.
-- Place mongoDB URL on your code.
+- Place mongoDB URL to env file.
